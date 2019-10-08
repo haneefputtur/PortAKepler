@@ -1,0 +1,2 @@
+set MapboxAccessToken=xxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyzzzzzzzzzzz
+npm start

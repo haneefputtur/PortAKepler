@@ -1,0 +1,5 @@
+cache = D:\Projects\Kepler\Portable\cache
+globalconfig = D:\Projects\Kepler\Portable\app\etc\npmrc
+globalignorefile = D:\Projects\Kepler\Portable\app\etc\.npmignore
+init-module = D:\Projects\Kepler\Portable\app\etc\.npm-init.js
+userconfig = D:\Projects\Kepler\Portable\app\etc\npmrc
