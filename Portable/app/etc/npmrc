@@ -1,5 +1,5 @@
-cache = D:\Projects\Kepler\Portable\cache
-globalconfig = D:\Projects\Kepler\Portable\app\etc\npmrc
-globalignorefile = D:\Projects\Kepler\Portable\app\etc\.npmignore
-init-module = D:\Projects\Kepler\Portable\app\etc\.npm-init.js
-userconfig = D:\Projects\Kepler\Portable\app\etc\npmrc
+cache = C:\Users\mhaneef\source\repos\GAuthenticator\PortAKepler\Portable\cache
+globalconfig = C:\Users\mhaneef\source\repos\GAuthenticator\PortAKepler\Portable\app\etc\npmrc
+globalignorefile = C:\Users\mhaneef\source\repos\GAuthenticator\PortAKepler\Portable\app\etc\.npmignore
+init-module = C:\Users\mhaneef\source\repos\GAuthenticator\PortAKepler\Portable\app\etc\.npm-init.js
+userconfig = C:\Users\mhaneef\source\repos\GAuthenticator\PortAKepler\Portable\app\etc\npmrc
